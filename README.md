@@ -1,15 +1,21 @@
 # Vergleich-Routingprotokolle-Uebersicht
 
+-
 
 Routing protokolle:
 
 Übersetzung Wörter
+
 intermediate 	= dazwischenliegend
+
 interior			= inneres
 
+-
 
 Alte Routing Protokolle
+
 RIP    routing information protocol
+
 IGRP   interior gateway routing protocol
 
 
