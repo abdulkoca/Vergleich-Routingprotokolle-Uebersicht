@@ -2,9 +2,11 @@
 
 -
 
-Routing protokolle:
+Routing protokolle
 
-Übersetzung der Wörter
+-
+
+Übersetzung beider Wörter:
 
 intermediate 	= dazwischenliegend
 
