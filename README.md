@@ -6,7 +6,7 @@ Routing protokolle
 
 -
 
-Übersetzung beider Wörter:
+ÜBERSETZUNG BEİDER WÖRTER:
 
 intermediate 	= dazwischenliegend
 
@@ -14,7 +14,7 @@ interior			= inneres
 
 -
 
-Alte Routing Protokolle
+ALTE ROUTING PROTOKOLLE:
 
 RIP:    routing information protocol
 
@@ -22,7 +22,7 @@ IGRP:   interior gateway routing protocol
 
 -
 
-Verbreitete Routing Protokolle 
+GÄNGIGE ROUTING PROTOKOLLE:
 
 OSPF    open shortest path first
 
