@@ -4,7 +4,7 @@
 
 Routing protokolle:
 
-Übersetzung Wörter
+Übersetzung der Wörter
 
 intermediate 	= dazwischenliegend
 
@@ -14,22 +14,29 @@ interior			= inneres
 
 Alte Routing Protokolle
 
-RIP    routing information protocol
+RIP:    routing information protocol
 
-IGRP   interior gateway routing protocol
+IGRP:   interior gateway routing protocol
 
-
+-
 
 Verbreitete Routing Protokolle 
 
 OSPF    open shortest path first
+
 EIGRP   enhanced interior gateway routing protocol
+
 IS-IS    intermediate-system to intermediate-system
+
 BGP     border gateway protocol
 
+-
 
 OSPF & EIGRP Konfiguration einfacher
+
 IS-IS & BGP Konfiguration komplexer
+
+-
 
 BGP am seltensten verbreitet unter den vier:   da BGP komplexer zu konfigurieren und zu verwalten. Erfordert tieferes Verständnis und spezialisierte Kenntnisse, für viele Unternehmen weniger attraktiv. Anwendungsbereich: BGP wird hauptsächlich für Routing zwischen autonomen Systemen im Internet verwendet, also für Routing zwischen verschiedenen Netzwerken.
 
