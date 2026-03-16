@@ -40,11 +40,13 @@ IS-IS & BGP = Konfiguration komplexer
 
 -
 
-BGP am seltensten verbreitet unter den vier: 
-  da BGP komplexer zu konfigurieren und zu verwalten. 
+BGP am seltensten verbreitet unter den vier:
+weil BGP komplexer zu konfigurieren und zu verwalten. 
+
 Erfordert tieferes Verständnis und spezialisierte Kenntnisse, für viele Unternehmen weniger attraktiv.
 
-Anwendungsbereich: BGP wird hauptsächlich für Routing zwischen autonomen Systemen im Internet verwendet, also für Routing zwischen verschiedenen Netzwerken.
+Anwendungsbereich: 
+BGP wird hauptsächlich für Routing zwischen autonomen Systemen im Internet verwendet, also für Routing zwischen verschiedenen Netzwerken.
 
 -
 
