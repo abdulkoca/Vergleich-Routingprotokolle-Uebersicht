@@ -2,7 +2,7 @@
 
 -
 
-Grundkenntnisse und Überblich zu den Routing Protokollen
+Grundkenntnisse und Überblick zu den Routing Protokollen
 
 -
 
