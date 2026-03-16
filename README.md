@@ -34,9 +34,9 @@ BGP     border gateway protocol
 
 -
 
-OSPF & EIGRP Konfiguration einfacher
+OSPF & EIGRP = Konfiguration einfacher
 
-IS-IS & BGP Konfiguration komplexer
+IS-IS & BGP = Konfiguration komplexer
 
 -
 
