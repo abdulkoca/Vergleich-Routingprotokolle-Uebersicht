@@ -69,13 +69,10 @@ IS-IS	Große Service-Provider-Netzwerke, Backbone-Netzwerke
 
 Übersicht der Stärken und Schwächen der vier Routingprotokolle:
 
-Protokoll
 
-	Stärken	
+Stärken & Schwächen:
 
-Schwächen
-
-OSPF	- Schnelle Konvergenz- Skalierbar- Unterstützt VLSM und CIDR	- Komplexe Konfiguration- Hoher Ressourcenbedarf
+OSPF	- Schnelle Konvergenz- Skalierbar- Unterstützt VLSM und CIDR	|  - Komplexe Konfiguration- Hoher Ressourcenbedarf
 
 -
 
